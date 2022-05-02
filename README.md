@@ -1,2 +1,2 @@
 # OpenMind
-OpenMind is a information system(rely on computer technology: includes theories，tools and methods etc.)  There is no scurity and data encryption in it. All about trust、efficiency、results。
+OpenMind is a theory system which based on computer technology, it includes theories, tools and methods etc. There is no scurity and data encryption in it. All about trust, efficiency, results. We'll figure out how to achieve this goal.
